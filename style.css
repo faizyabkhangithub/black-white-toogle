@@ -1,0 +1,8 @@
+button{
+    width: 150px;
+    height: 100px;
+    border: 2px solid yellowgreen;
+    color:green;
+    background: transparent;
+   text-transform: capitalize;
+}
